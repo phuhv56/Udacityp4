@@ -1,0 +1,9 @@
+{
+	"name": "phuhv10datafactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fec8b2bd-7437-4966-90ee-1b45714d1097",
+		"tenantId": "f01e930a-b52e-42b1-b70f-a8882b5d043b"
+	}
+}
